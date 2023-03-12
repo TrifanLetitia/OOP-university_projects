@@ -1,0 +1,10 @@
+//
+// Created by Leti on 21.05.2022.
+//
+
+#ifndef PROIECTSDA_COPIE_EVENTTESTS_H
+#define PROIECTSDA_COPIE_EVENTTESTS_H
+
+void testEvent();
+
+#endif //PROIECTSDA_COPIE_EVENTTESTS_H
